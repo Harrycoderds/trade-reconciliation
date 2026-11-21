@@ -149,7 +149,7 @@ trade-reconciliation/
 ├── excel/               highlight_aged_breaks.bas
 ├── tests/test_recon.py  18 unit tests on tiny hand-built examples
 ├── reports/             recon_report.xlsx, tableau_export.csv
-├── docs/                CHEATSHEET.md, screenshots/
+├── docs/screenshots/    placeholder for report and dashboard screenshots
 └── run_all.py
 ```
 
